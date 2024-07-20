@@ -1,5 +1,5 @@
 # The water clock, or clepsydra
-<div>
+<div float="left">
   <img src="https://github.com/MMT-Community/Resources/blob/main/images/water-clock1.jpg" alt="cover">
   <img src="https://github.com/MMT-Community/Resources/blob/main/images/water-clock2.jpg" alt="cover">
 </div>
